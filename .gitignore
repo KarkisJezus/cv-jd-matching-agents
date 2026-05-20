@@ -1,0 +1,88 @@
+# =================================================================
+# Environment / secrets
+# =================================================================
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# =================================================================
+# Python
+# =================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/  # rare: a directory called .env
+
+# Testing / linting
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# =================================================================
+# IDE / editor
+# =================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# =================================================================
+# Claude Code / AI tooling
+# =================================================================
+.claude/
+
+# =================================================================
+# Streamlit
+# =================================================================
+.streamlit/secrets.toml
+
+# =================================================================
+# Experiment outputs and large datasets (kept out of version control)
+# =================================================================
+# Generated experiment results — regenerate with `python -m evaluation.runner`
+results/
+
+# Cached HuggingFace dataset and intermediate JSON files
+data/*.json
+data/*.jsonl
+data/memory/
+data/__pycache__/
+
+# Allow only example/seed data files
+!data/sample_cv.txt
+!data/sample_jd.txt
+!data/load_hf_dataset.py
+
+# =================================================================
+# Thesis (separate project, not part of system code)
+# =================================================================
+thesis/
+thesis.zip
+
+# =================================================================
+# Misc one-off / legacy files
+# =================================================================
+dashboard_legacy.py
+concat_runs.py
+merge_runs.py
+salvage_qwen_partial.py
+=2.0
+test_local_llm.py

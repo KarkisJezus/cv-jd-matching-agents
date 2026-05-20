@@ -1,0 +1,40 @@
+CURRICULUM VITAE
+
+Name: Jonas Kazlauskas
+Location: Vilnius, Lithuania
+Email: jonas.k@email.com
+
+SUMMARY
+Software developer with 3 years of experience in Python development,
+data analysis, and machine learning. Passionate about building data-driven
+applications and solving complex problems.
+
+SKILLS
+- Python (advanced)
+- Machine Learning (scikit-learn, PyTorch)
+- Data Analysis (pandas, numpy)
+- SQL and PostgreSQL
+- REST API development (FastAPI, Flask)
+- Git version control
+- Docker basics
+- English (fluent), Lithuanian (native)
+
+EXPERIENCE
+Software Developer | TechCorp, Vilnius | 2022-2025
+- Developed data processing pipelines using Python and pandas
+- Built ML models for customer churn prediction (85% accuracy)
+- Designed and maintained REST APIs using FastAPI
+- Collaborated with data science team on feature engineering
+
+Junior Developer | StartupXYZ, Kaunas | 2021-2022
+- Built web scraping tools using Python and BeautifulSoup
+- Maintained PostgreSQL databases
+- Wrote unit tests and documentation
+
+EDUCATION
+BSc Computer Science | Vilnius University | 2017-2021
+- Thesis: "Sentiment Analysis using Neural Networks"
+- GPA: 8.5/10
+
+CERTIFICATIONS
+- AWS Cloud Practitioner (2023)

@@ -1,0 +1,24 @@
+# Core
+pydantic>=2.0
+sentence-transformers>=2.2.0
+openai>=1.0
+json-repair>=0.30        # Robust JSON parsing for smaller open-weight models (Qwen, Llama, Phi)
+
+# Embeddings / ML
+torch>=2.0
+scikit-learn>=1.3
+
+# Memory (Scenario C) - install later
+# faiss-cpu>=1.7
+# chromadb>=0.4
+
+# Dataset loading (HuggingFace)
+datasets>=2.0
+
+# Dashboard
+streamlit>=1.30
+plotly>=5.0
+
+# Development
+python-dotenv>=1.0
+pytest>=7.0

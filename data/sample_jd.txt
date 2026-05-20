@@ -1,0 +1,32 @@
+JOB DESCRIPTION: Machine Learning Engineer
+
+Company: DataVision Analytics
+Location: Vilnius, Lithuania (hybrid)
+Employment type: Full-time
+
+ABOUT THE ROLE
+We are looking for a Machine Learning Engineer to join our growing
+AI team. You will design, develop, and deploy machine learning models
+that power our analytics platform.
+
+REQUIREMENTS
+- 2+ years of experience in Python development
+- Strong knowledge of machine learning frameworks (PyTorch, TensorFlow)
+- Experience with data processing and analysis (pandas, numpy, SQL)
+- Understanding of deep learning architectures (CNN, RNN, Transformers)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Familiarity with MLOps practices (model versioning, CI/CD for ML)
+- Knowledge of Docker and containerization
+- Strong problem-solving and communication skills
+
+NICE TO HAVE
+- Experience with NLP or computer vision projects
+- Knowledge of distributed computing (Spark, Dask)
+- Published research or conference presentations
+- Experience with A/B testing and experiment design
+
+WHAT WE OFFER
+- Competitive salary
+- Hybrid work model
+- Professional development budget
+- Modern tech stack
